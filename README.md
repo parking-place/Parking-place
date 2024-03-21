@@ -50,6 +50,7 @@
 - <a href="" target="_blank"><img src="https://img.shields.io/badge/homeassistant-18BCF2?style=for-the-badge&logo=homeassistant&logoColor=ffffff"/>  </a>
 - <a href="" target="_blank"><img src="https://img.shields.io/badge/homebridge-491F59?style=for-the-badge&logo=homebridge&logoColor=ffffff"/>  </a>
 - <a href="" target="_blank"><img src="https://img.shields.io/badge/Game servers-000000?style=for-the-badge&logo=steam&logoColor=ffffff"/>  </a>
+- <a href="" target="_blank"><img src="https://img.shields.io/badge/telegram sticker bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=ffffff"/>  </a>
 
 
 
