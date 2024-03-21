@@ -44,7 +44,8 @@
 - <a href="" target="_blank"><img src="https://img.shields.io/badge/pihole DNS-96060C?style=for-the-badge&logo=pihole&logoColor=white"/>  </a>
 - <a href="" target="_blank"><img src="https://img.shields.io/badge/mysql db-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/in-000000?style=for-the-badge&logo=&logoColor=white"/>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/freebsd jail-AB2B28?style=for-the-badge&logo=freebsd&logoColor=ffffff"/>  </a></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/freebsd jail-AB2B28?style=for-the-badge&logo=freebsd&logoColor=ffffff"/> </a>
+- <a href="" target="_blank"><img src="https://img.shields.io/badge/maria db-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>  </a>
 - <a href="" target="_blank"><img src="https://img.shields.io/badge/wireguard vpn-88171A?style=for-the-badge&logo=wireguard&logoColor=white"/>  </a>
 - <a href="" target="_blank"><img src="https://img.shields.io/badge/Ubuntu Cuda-E95420?style=for-the-badge&logo=ubuntu&logoColor=ffffff"/>  </a>
 - <a href="" target="_blank"><img src="https://img.shields.io/badge/homeassistant-18BCF2?style=for-the-badge&logo=homeassistant&logoColor=ffffff"/>  </a>
