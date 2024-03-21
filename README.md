@@ -25,17 +25,18 @@
 
 ## 🖥️ Homelab Servers
 
-- NAS로 사용중
+- NAS
 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/TrueNAS Core-0095D5?style=for-the-badge&logo=truenas&logoColor=ffffff"/>  </a>
 
-- 자작 Router로 사용중
+- Routers
 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/OPNSense router-D94F00?style=for-the-badge&logo=opnsense&logoColor=white"/>  </a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/tplink router-4ACBD6?style=for-the-badge&logo=tplink&logoColor=white"/>  </a>
 
-- Proxmox VE Cluster (Node count: 4)
+- Proxmox VE Clusters (Node count: 4)
 
-<a href="https://prox.parkingplace.co.kr/" target="_blank"><img src="https://img.shields.io/badge/Proxmox VE clusters-E57000?style=for-the-badge&logo=proxmox&logoColor=white"/>  </a>
+<a href="https://prox.parkingplace.co.kr/" target="_blank"><img src="https://img.shields.io/badge/Proxmox VE-E57000?style=for-the-badge&logo=proxmox&logoColor=white"/>  </a>
 
 - <a href="" target="_blank"><img src="https://img.shields.io/badge/NGINX proxy manager-009639?style=for-the-badge&logo=nginx&logoColor=white"/>  </a> 
 - <a href="" target="_blank"><img src="https://img.shields.io/badge/jellyfin media server-00A4DC?style=for-the-badge&logo=jellyfin&logoColor=white"/>  </a>
