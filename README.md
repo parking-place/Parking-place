@@ -16,18 +16,30 @@
 <a href="" target="_blank"><img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"/>  </a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/WSL-0a97f5?style=for-the-badge&logo=linux&logoColor=white"/>  </a>
 
-## 🖥️ Personal Server
+## 🖥️ Homelab Servers
 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/TrueNAS Core-0095D5?style=for-the-badge&logo=truenas&logoColor=ffffff"/>  </a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Ubuntu Cuda-E95420?style=for-the-badge&logo=ubuntu&logoColor=ffffff"/>  </a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/OPNSense router-D94F00?style=for-the-badge&logo=opnsense&logoColor=white"/>  </a>
 
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white"/>  </a>
+<a href="https://prox.parkingplace.co.kr/" target="_blank"><img src="https://img.shields.io/badge/Proxmox VE clusters-E57000?style=for-the-badge&logo=proxmox&logoColor=white"/>  </a>
+- <a href="" target="_blank"><img src="https://img.shields.io/badge/NGINX proxy manager-009639?style=for-the-badge&logo=nginx&logoColor=white"/>  </a>
+- <a href="" target="_blank"><img src="https://img.shields.io/badge/jellyfin-00A4DC?style=for-the-badge&logo=jellyfin&logoColor=white"/>  </a>
+- <a href="" target="_blank"><img src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>  </a>
+- <a href="" target="_blank"><img src="https://img.shields.io/badge/pihole-96060C?style=for-the-badge&logo=pihole&logoColor=white"/>  </a>
+- <a href="" target="_blank"><img src="https://img.shields.io/badge/mysql db-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>  </a>
+- <a href="" target="_blank"><img src="https://img.shields.io/badge/wireguard-88171A?style=for-the-badge&logo=wireguard&logoColor=white"/>  </a>
+
 
 ## 🌫️ Clouds
 
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Oracle Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>  </a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>  </a>
+- free tier 사용중 (ARM 기반의 서버 사용중)
 
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Oracle Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>  </a>
+
+- 현재는 사용하지 않음
+
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>  </a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>  </a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/MS%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>  </a>
 
